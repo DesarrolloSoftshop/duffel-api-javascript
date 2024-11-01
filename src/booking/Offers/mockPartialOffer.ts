@@ -191,7 +191,7 @@ export const mockPartialOffer: Offer = {
       id: 'ase_00009UhD4ongolulWd9123',
     },
   ],
-  allowed_passenger_identity_document_types: ['passport'],
+  supported_passenger_identity_document_types: ['passport'],
 }
 
 export const mockUpdatedOffer = {
